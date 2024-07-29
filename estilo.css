@@ -1,0 +1,91 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+    color:black;
+
+}
+
+section a:hover {
+ font-size:28px;
+}
+
+header {
+    background:#6F53A9;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav {
+    margin: 40px 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 35px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+      max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section{
+    border-radius: 5px;
+    display: block;
+    padding-bottom: 10px;
+}
+
+ section:hover{
+    background-color:rgba(111, 83, 169, 0.5);
+ }
+
+  #sobreh2{
+    text-align: center;
+  }
+
+  .desch2{
+    font-size: 16px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: left;
+  }
+
+  #divh2{
+    margin-bottom: 20px;
+  }
+
+  #divp{
+    margin-bottom: 50px;
+  }
+
+  #voltar{
+ 
+    margin-left: 10px;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  #voltar:hover{
+    font-weight: bold;
+  }
+
+ 
